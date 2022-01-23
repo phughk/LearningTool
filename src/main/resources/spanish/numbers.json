@@ -30,6 +30,31 @@
     {"key": "ninety", "value": "noventa"},
     {"key": "one hundred", "value": "cien"},
     {"key": "two hundred", "value": "doscientos"},
-    {"key": "one thousand", "value": "mil"}
+    {"key": "one thousand", "value": "mil"},
+
+    {"key": "one hundred and ten", "value": "ciento diez"},
+    {"key": "two hundred and forty", "value": "doscientos cuarenta"},
+    {"key": "three hundred and eleven", "value": "trescientos once"},
+    {"key": "four hundred and twenty seven", "value": "cuatrocientos veintisiete"},
+    {"key": "five hundred and eighteen", "value": "quinientos dieciocho"},
+    {"key": "six hundred and fifty seven", "value": "seiscientos cincuenta y siete"},
+    {"key": "seven hundred and eighty nine", "value": "setecientos ochenta y nueve"},
+    {"key": "eight hundred and sixty seven", "value": "setecientos sesenta y siete"},
+    {"key": "nine hundred and sixteen", "value": "novecientos dieciséis"},
+    {"key": "one thousand and ten", "value": "mil diez"},
+    {"key": "one thousand one hundred and seventy eight", "value": "mil ciento setenta y ocho"},
+    {"key": "one thousand two hundred and ten", "value": "mil doscientos diez"},
+    {"key": "one thousand three hundred and forty seven", "value": "mil trescientos cuarenta y siete"},
+    {"key": "one thousand four hundred and ninety two", "value": "mil cuatrocientos noventa y dos"},
+    {"key": "one thousand five hundred and eighty nine", "value": "mil quinientos ochenta y nueve"},
+    {"key": "one thousand six hundred", "value": "mil seiscientos"},
+    {"key": "one thousand seven hundred and seventy seven", "value": "mil setecientos setenta y siete"},
+    {"key": "one thousand eight hundred and ten", "value": "mil ochocientos diez"},
+    {"key": "one thousand nine hundred and fifty", "value": "mil novecientos cincuenta"},
+    {"key": "one thousand nine hundred and ninety nine", "value": "mil novecientos noventa y nueve"},
+    {"key": "two thousand", "value": "dos mil"},
+    {"key": "two thousand and nine", "value": "dos mil nueve"},
+    {"key": "two thousand and seventeen", "value": "dos mil diecisiete"},
+    {"key": "two thousand and eighteen", "value": "dos mil dieciocho"}
   ]
 }
