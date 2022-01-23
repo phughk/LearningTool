@@ -13,7 +13,7 @@ public class ResourceSelector {
   private final Scanner scanner;
   private final PrintStream output;
 
-  private static final String e = "resources/spanish/";
+  private static final String e = "spanish/";
 
   private static final List<String> HARDCODED_SHIT = Arrays.asList(
       e + "colours.json",

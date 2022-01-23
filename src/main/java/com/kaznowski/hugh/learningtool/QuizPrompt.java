@@ -14,6 +14,11 @@ public class QuizPrompt {
 
   public boolean test(String prompt, String expected) {
     output.printf("%s: ", prompt);
-    return expected.equals(scanner.nextLine());
+    boolean correct = true;
+    while (!expected.equals(scanner.nextLine())) {
+      correct = false;
+      output.println(expected);
+    }
+    return correct;
   }
 }
