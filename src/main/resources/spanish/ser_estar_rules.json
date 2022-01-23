@@ -1,0 +1,19 @@
+{
+  "prompts": [
+    {"key": "Time, Day, Date", "value": "Ser"},
+    {"key": "Origin", "value": "Ser"},
+    {"key": "Job", "value": "Ser"},
+    {"key": "Nationality", "value": "Ser"},
+    {"key": "Religion", "value": "Ser"},
+    {"key": "Political Support", "value": "Ser"},
+    {"key": "Material (made of)", "value": "Ser"},
+    {"key": "Possession", "value": "Ser"},
+    {"key": "Where an event is taking place", "value": "Ser"},
+    {"key": "Describing someone", "value": "Ser"},
+    {"key": "Impersonal expressions", "value": "Ser"},
+    {"key": "Location", "value": "Estar"},
+    {"key": "State of something", "value": "Estar"},
+    {"key": "Idiomatic expression", "value": "Estar"},
+    {"key": "Progressive Tense", "value": "Estar"}
+  ]
+}

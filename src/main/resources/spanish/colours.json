@@ -1,0 +1,19 @@
+{
+  "prompts": [
+    {"key":  "white", "value":  "blanco"},
+    {"key":  "yellow", "value":  "amarillo"},
+    {"key":  "orange", "value":  "naranja"},
+    {"key":  "pink", "value":  "rosa"},
+    {"key":  "red", "value":  "rojo"},
+    {"key":  "brown", "value":  "marrón"},
+    {"key":  "green", "value":  "verde"},
+    {"key":  "blue", "value":  "azul"},
+    {"key":  "purple", "value":  "violeta"},
+    {"key":  "grey", "value":  "gris"},
+    {"key":  "black", "value":  "negro"},
+    {"key":  "silver", "value":  "plateado"},
+    {"key":  "gold", "value":  "dorado"},
+    {"key":  "light", "value":  "claro"},
+    {"key":  "dark", "value":  "oscuro"}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "prompts": [
+    {"key": "monday", "value": "lunes"},
+    {"key": "tuesday", "value": "martes"},
+    {"key": "wednesday", "value": "miércoles"},
+    {"key": "thursday", "value": "jueves"},
+    {"key": "friday", "value": "viernes"},
+    {"key": "saturday", "value": "sábado"},
+    {"key": "sunday", "value": "domingo"},
+    {"key": "weekend", "value": "fin de semana"},
+    {"key": "tomorrow", "value": "mañana"},
+    {"key": "tomorrow morning", "value": "mañana par la mañana"},
+    {"key": "day", "value": "días"},
+    {"key": "month", "value": "los meses"},
+    {"key": "year", "value": "años"},
+    {"key": "january", "value": "enero"},
+    {"key": "february", "value": "febrero"},
+    {"key": "march", "value": "marzo"},
+    {"key": "april", "value": "abril"},
+    {"key": "may", "value": "mayo"},
+    {"key": "june", "value": "junio"},
+    {"key": "july", "value": "julio"},
+    {"key": "august", "value": "agosto"},
+    {"key": "september", "value": "septiembre"},
+    {"key": "october", "value": "octubre"},
+    {"key": "november", "value": "noviembre"},
+    {"key": "december", "value": "diciembre"},
+    {"key": "spring", "value": "primavera"},
+    {"key": "summer", "value": "verano"},
+    {"key": "autumn", "value": "otoño"},
+    {"key": "winter", "value": "invierno"}
+  ]
+}
