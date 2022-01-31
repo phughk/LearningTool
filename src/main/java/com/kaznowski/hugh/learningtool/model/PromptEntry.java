@@ -1,4 +1,4 @@
-package com.kaznowski.hugh.learningtool;
+package com.kaznowski.hugh.learningtool.model;
 
 import lombok.Data;
 

@@ -1,6 +1,7 @@
-package com.kaznowski.hugh.learningtool;
+package com.kaznowski.hugh.learningtool.terminal;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.kaznowski.hugh.learningtool.model.LearningResource;
 import lombok.SneakyThrows;
 
 import java.io.InputStream;

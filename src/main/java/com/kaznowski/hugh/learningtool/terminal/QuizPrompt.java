@@ -1,4 +1,4 @@
-package com.kaznowski.hugh.learningtool;
+package com.kaznowski.hugh.learningtool.terminal;
 
 import java.io.PrintStream;
 import java.util.Scanner;
